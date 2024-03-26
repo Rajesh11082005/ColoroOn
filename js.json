@@ -1,0 +1,30 @@
+{
+    "1" : "Structure pages with HTML",
+
+    "2" : "Present data with tables",
+
+    "3" : "Write cleaner HTML"
+}
+
+{
+    "1":"IntroTOHtml",
+    "2":"DocStructure",
+    "3":"Elements",
+    "4":"HeadingAndParas",
+    "5":"TextFormatting",
+    "6":"List",
+    "7":"Links",
+    "8":"Images",
+    "9":"Forms",
+    "10":"Tables",
+    "11":"Sematic",
+    "12":"Multimedia",
+    "13":"DocumentMetaData",
+    "14":"StylesandCSS",
+    "15":"Layout",
+    "16":"FormsAndInputs",
+    "17":"5Features",
+    "18":"BestPractices",
+    "19":"5API",
+    "20":"Validation"
+}
